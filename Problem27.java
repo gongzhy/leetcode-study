@@ -1,11 +1,8 @@
+package com.projecteuler.first;
 
 public class Problem27 {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		long startTime = System.nanoTime();
 		method();
 		System.out.println((System.nanoTime() - startTime) / 1000000 + " ms");
