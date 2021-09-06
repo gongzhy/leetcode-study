@@ -1,4 +1,4 @@
-package com.gongzhy.leetcode.binarytree;
+package com.gongzhy.leetcode.problems.binarytree;
 
 import com.gongzhy.leetcode.core.bean.TreeNode;
 
