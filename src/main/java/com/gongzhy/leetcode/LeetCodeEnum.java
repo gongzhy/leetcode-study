@@ -1,5 +1,6 @@
 package com.gongzhy.leetcode;
 
+import com.gongzhy.leetcode.problems.binarysearch.BinarySearch;
 import com.gongzhy.leetcode.problems.binarytree.BinaryTreeInorderTraversal;
 import com.gongzhy.leetcode.problems.dynamic.ClimbingStairs;
 import com.gongzhy.leetcode.problems.dynamic.GenerateParentheses;
@@ -10,7 +11,9 @@ public enum  LeetCodeEnum {
     // 70. 爬楼梯
     climbing_stairs(70, ClimbingStairs.class),
     //
-    Binary_Tree_Inorder_Traversal(94, BinaryTreeInorderTraversal.class);
+    Binary_Tree_Inorder_Traversal(94, BinaryTreeInorderTraversal.class),
+    // 704. 二分查找
+    Binary_Search(704, BinarySearch.class);
 
     private int index;
 
