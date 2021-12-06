@@ -8,6 +8,8 @@ import com.gongzhy.leetcode.problems.dynamic.GenerateParentheses;
 public enum  LeetCodeEnum {
     // 22. 括号生成
     Generate_Parentheses(22, GenerateParentheses.class),
+
+    Remove_duplicates_from_sorted_array(26, null),
     // 70. 爬楼梯
     climbing_stairs(70, ClimbingStairs.class),
     //
