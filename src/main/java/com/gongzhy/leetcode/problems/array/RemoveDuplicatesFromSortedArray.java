@@ -53,11 +53,8 @@ public class RemoveDuplicatesFromSortedArray {
 
     @Test
     public void test() {
-
         int[] array = new int[]{1, 1, 2};
-
         removeDuplicates(array);
-
     }
 
     public int removeDuplicates(int[] nums) {

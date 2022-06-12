@@ -14,6 +14,8 @@ public enum  LeetCodeEnum {
     climbing_stairs(70, ClimbingStairs.class),
     //
     Binary_Tree_Inorder_Traversal(94, BinaryTreeInorderTraversal.class),
+    // 122买卖股票的最佳时机 II
+    Best_time_to_buy_and_sell_stock_2(122, null),
     // 704. 二分查找
     Binary_Search(704, BinarySearch.class);
 
